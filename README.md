@@ -34,3 +34,11 @@ Contiene información detallada de las temporadas 2018-2022:
 
 ## 🚀 Impacto
 Este proyecto combina ciencia de datos y análisis avanzado para facilitar decisiones estratégicas en inversiones deportivas, proporcionando una visión clara del rendimiento y potencial de los equipos de la NBA.
+
+## 👥 Colaboradores
+- **Fabian Arias** ([AriasFabian11](https://github.com/AriasFabian11))
+- **Bruno Rinaudo** ([BrunoRinaudo](https://github.com/BrunoRinaudo))
+- **Estefania Noguera** ([estefania312](https://github.com/estefania312))
+- **Francisco Diaz Molina** ([franciscodiazmolina](https://github.com/franciscodiazmolina))
+- **Pablo Estruch** ([PabloEstruch](https://github.com/PabloEstruch))
+Este proyecto combina ciencia de datos y análisis avanzado para facilitar decisiones estratégicas en inversiones deportivas, proporcionando una visión clara del rendimiento y potencial de los equipos de la NBA.
