@@ -41,4 +41,3 @@ Este proyecto combina ciencia de datos y análisis avanzado para facilitar decis
 - **Estefania Noguera** ([estefania312](https://github.com/estefania312))
 - **Francisco Diaz Molina** ([franciscodiazmolina](https://github.com/franciscodiazmolina))
 - **Pablo Estruch** ([PabloEstruch](https://github.com/PabloEstruch))
-Este proyecto combina ciencia de datos y análisis avanzado para facilitar decisiones estratégicas en inversiones deportivas, proporcionando una visión clara del rendimiento y potencial de los equipos de la NBA.
